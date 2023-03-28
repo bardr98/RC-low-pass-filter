@@ -14,3 +14,5 @@ Now we are ready to simulate the circuit response. We create an empty list Vout 
 Finally, we plot the input and output waveforms using the Matplotlib library. We use plt.plot() to create line plots of the input and output waveforms, with time on the x-axis and voltage on the y-axis. We also add labels to the x-axis and y-axis and a title to the plot, and we use plt.legend() to add a legend to the plot that identifies the input and output waveforms.
 
 Overall, this code demonstrates proficiency in basic electrical engineering concepts, such as RC circuits and voltage dividers, and it showcases an application of these concepts in semiconductor design. The code also uses common Python libraries like NumPy and Matplotlib, which are widely used in scientific computing and data visualization.
+
+<img src = "https://cdn-0.latexdraw.com/wp-content/uploads/2021/01/RC-Low-Pass-Filter-768x576.png?ezimgfmt=ng:webp/ngcb3" width="500" height="500">
